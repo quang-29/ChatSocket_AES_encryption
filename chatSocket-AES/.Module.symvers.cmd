@@ -1,0 +1,1 @@
+savedcmd_/home/minhquang/code/Nhom12/Socket/chatSocket-AES/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/minhquang/code/Nhom12/Socket/chatSocket-AES/Module.symvers -T /home/minhquang/code/Nhom12/Socket/chatSocket-AES/modules.order -i Module.symvers -e 
